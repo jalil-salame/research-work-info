@@ -26,7 +26,7 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 ## Registration
 
 * [x] I registered my BSc/MsC thesis towards the 15th of a month, or
-* [-] I registered my GR/IDP at the beginning of the semester
+* [ ] ~I registered my GR/IDP at the beginning of the semester~
 
 
 ## Intermediate presentation
@@ -49,15 +49,15 @@ All the steps needed to complete your research work at [DSE](https://dse.in.tum.
 
 * [x] **Thesis title change**: Checked if working title is still suitable
 
-    * [-] ... *If you wish to change the title*, please first discuss the new title with your advisors and submit the [title change form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).
+    * [ ] ~... *If you wish to change the title*, please first discuss the new title with your advisors and submit the [title change form](https://docs.google.com/document/d/1RAxqMniTsX0k2E8NAjYKRjaXo6CRoWmx-5-KDAyJ_DM/edit?usp=sharing) (PDF) to the [chair administration](https://dse.in.tum.de/contact/).~
 
 
 ## Submission 
 
 2 weeks before the submission deadline get approval to submit the
 thesis/report:
-* [ ] Sent a thesis/report draft to the advisors
-* [ ] Sent a thesis/report draft to Prof. Bhatotia
+* [x] Sent a thesis/report draft to the advisors
+* [x] Sent a thesis/report draft to Prof. Bhatotia
 
 After the final approval, submit the thesis/report:
 * [ ] One thesis printout delivered to Prüfungsamt (**ONLY** required for
